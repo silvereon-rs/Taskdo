@@ -245,7 +245,7 @@ button:hover {
 .posts {
   /* margin: 0 auto; */
   margin-left: 2rem;
-  width: 80%;
+  width: 100%;
   margin-top: 0;
 }
 
@@ -394,9 +394,7 @@ button:hover {
 .doublequote{
   opacity: 0.3;
   position: absolute;
-  margin-top: 4.5rem;
-  margin-left: 13rem;
-  z-index: 0;
+  z-index: -1;
 }
 
 .test-head{
@@ -412,6 +410,7 @@ button:hover {
   font-weight: 400;
   font-size: 1.125rem;
   color: #18191F;
+  margin-left: 5.8rem;
 }
 
 .test-logo{
@@ -433,7 +432,7 @@ button:hover {
 }
 
 .testify-head-grid{
-  margin-top: 30%;
+  margin-top: 12%;
   margin-right: 2rem;
   z-index: 1;
 }

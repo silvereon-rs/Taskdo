@@ -22,8 +22,6 @@ li a {
 }
 
 body {
-  /* background-image: url("../assets/Background.png");
-  background-size: cover; */
   margin: 0;
   margin-bottom: 18%;
 }
@@ -764,49 +762,3 @@ footer {
   color: #D9DBE1;
   margin: 0;
 }
-
-/*
-.list1{
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  padding: 0px;
-
-  position: absolute;
-  width: 633px;
-  height: 34px;
-  left: 165px;
-  top: calc(50% - 34px/2);
-}
-
-
-
-
-.navbaritem{
-
-position: static;
-left: 0%;
-right: 0%;
-top: 0%;
-bottom: 0%;
-
-
-font-family: Inter;
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 20px;
-
-font-feature-settings: 'salt' on, 'liga' off;
-
-
-color: #18191F;
-
-
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 0px 10px;
-}
-
-*/
